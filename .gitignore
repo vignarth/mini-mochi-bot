@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+build/
+dist/
+*.bin
+*.elf
+.pio/
+.pioenvs/
+*.log
