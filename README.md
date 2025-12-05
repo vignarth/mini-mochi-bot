@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Mochi Bot (ESP32-C3) — Build Notes
 
 This repository documents my build of a **Mini Mochi Bot** powered by an **ESP32-C3 Mini** and flashed directly using the **official Mochi Web Installer by Huy Khong**.
@@ -143,3 +144,7 @@ MIT — free to modify and share.
 
 * **Mochi Firmware:** Huy Khong
 * Hardware build & documentation: Me
+=======
+# mini-mochi-bot
+Mini Mochi Bot built using an ESP32-C3 Mini and the official Mochi firmware (Huy Khong). This repo contains wiring diagrams, flashing instructions, and build notes for recreating the project.
+>>>>>>> 162e6a826c229ea3af3f0b387458b796d0eebdbc
